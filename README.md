@@ -1,2 +1,2 @@
 # simulated_method_of_moments
-jupyter notebook for running simulated method of moments
+Jupyter notebook for HW4 of Fatih's empirical methods class. This notebooks runs the simulated method of moments.
